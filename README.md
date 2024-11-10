@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/anshu189/count.svg)
+
 # About
 
 This ROS Package can be used to control the movement of a bot inside the turtlesim package
